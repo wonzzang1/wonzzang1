@@ -3,6 +3,10 @@
 김회원입니다. 임업🌳&환경🏞️[나무꾼🌳](https://ko.dict.naver.com/#/entry/koko/e866094466834a4895c929aac5a13dce)  쪽에서 일하다가 새롭게 도전하게 되었습니다.
 많이 부족합니다. 많이 도와주세요.
 
+## 연락처
+
+*[insta](https://www.instagram.com/hm_son7/)
+
 ## 나의 취미⚽📺 #
 
 K리그를 좋아하고 제일 [좋아하는 팀](https://hyundai-motorsfc.com) 은 @@입니다 .
@@ -13,7 +17,7 @@ K리그를 좋아하고 제일 [좋아하는 팀](https://hyundai-motorsfc.com) 
 
 앱개발이 되었으면 합니다.
 
-## 개발자
+## 
 
 
 
