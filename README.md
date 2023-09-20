@@ -5,8 +5,9 @@
 
 ## 연락처
 
-*[insta](https://www.instagram.com/hm_son7/)
-
+* [insta](https://www.instagram.com/hm_son7/)
+* [github](https://github.com/wonzzang1/wonzzang1/edit/main/README.md)
+  
 ## 나의 취미⚽📺 #
 
 K리그를 좋아하고 제일 [좋아하는 팀](https://hyundai-motorsfc.com) 은 @@입니다 .
