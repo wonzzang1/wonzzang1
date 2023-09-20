@@ -2,7 +2,16 @@
 
 저는 임업🌳&환경🏞️[나무꾼🌳](https://ko.dict.naver.com/#/entry/koko/e866094466834a4895c929aac5a13dce)  쪽에서 일하다가 새롭게 도전하게 되었습니다.
 많이 부족합니다. 도와주세요.
-# Hi there, it's Justin here 👋 #
+
+## 나의 취미⚽📺 #
+
+K리그를 좋아하고 제일 [좋아하는 팀](https://hyundai-motorsfc.com) 은 @@입니다 .
+직관을 자주 하지 못해 집관을 자주합니다.
+최근에는 복싱🥊을 배우고 있습니다.
+
+## 나의 특기
+
+도전하는 것을 좋아합니다. 
 
 ## I'm a [Cloud Advocate](https://aka.ms/justinyoo) at Microsoft ##
 
