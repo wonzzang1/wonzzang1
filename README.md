@@ -1,6 +1,6 @@
 # 안녕하세요 반갑습니다 👋
 
-김회원입니다. 임업🌳&환경🏞️[나무꾼🌳](https://ko.dict.naver.com/#/entry/koko/e866094466834a4895c929aac5a13dce)  쪽에서 일하다가 새롭게 도전하게 되었습니다.
+김회원입니다. 환경영향평가조사원 및 임업쪽에 쉽게 이야기하면 🏞️[나무꾼🌳](https://ko.dict.naver.com/#/entry/koko/e866094466834a4895c929aac5a13dce)  쪽에서 일하다가 새롭게 도전하게 되었습니다.
 많이 부족합니다. 많이 도와주세요.
 
 <img width="350" src="https://github.com/wonzzang1/wonzzang1/assets/144765882/7806d474-3b68-4474-9e79-d33ada382929"/>
