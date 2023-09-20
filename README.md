@@ -1,44 +1,20 @@
 # 안녕하세요 반갑습니다 👋
 
-저는 임업🌳&환경🏞️[나무꾼🌳](https://ko.dict.naver.com/#/entry/koko/e866094466834a4895c929aac5a13dce)  쪽에서 일하다가 새롭게 도전하게 되었습니다.
-많이 부족합니다. 도와주세요.
+김회원입니다. 임업🌳&환경🏞️[나무꾼🌳](https://ko.dict.naver.com/#/entry/koko/e866094466834a4895c929aac5a13dce)  쪽에서 일하다가 새롭게 도전하게 되었습니다.
+많이 부족합니다. 많이 도와주세요.
 
 ## 나의 취미⚽📺 #
 
 K리그를 좋아하고 제일 [좋아하는 팀](https://hyundai-motorsfc.com) 은 @@입니다 .
 직관을 자주 하지 못해 집관을 자주합니다.
-최근에는 복싱🥊을 배우고 있습니다.
+최근에는 복싱🥊을 배우기 시작했습니다.
 
 ## 나의 특기
 
-도전하는 것을 좋아합니다. 
+앱개발이 되었으면 합니다.
 
-## I'm a [Cloud Advocate](https://aka.ms/justinyoo) at Microsoft ##
+## 개발자
 
-As a software developer, Justin has started his career since 2007, working in many different industries including non-profit, telecommunication, manufacturing, finance, entertainment and energy. He always seeks a way to help every single individual and organisation on this planet to achieve more, with less resources. From that regards, Justin mostly focuses on:
-
-* [.NET](https://dotnet.microsoft.com/) 👉 The most high-performing programming language,
-* [Azure](https://azure.microsoft.com/) 👉 The most comprehensive cloud service platform, and
-* [Power Platform](https://powerplatform.microsoft.com/) 👉 The most advanced low-code/no-code platform.
-
-
-## I'm currently ... ##
-
-* 🔭 working on publishing contents about how to let developers easily use the cloud.
-* 📝 writing blog posts in English at [https://devkimchi.com](https://devkimchi.com).
-* 📝 writing blog posts in Korean at [https://blog.aliencube.org](https://blog.aliencube.org).
-* 📢 sharing ideas on <img height="16" width="16" src="https://cdn.simpleicons.org/linkedin/0A66C2" /> as [@justinyoo](https://linkedin.com/in/justinyoo).
-* 📢 tooting on <img height="16" width="16" src="https://cdn.simpleicons.org/mastodon/6364FF" /> as [@justinchronicle@mastodon.social](https://mastodon.social/@justinchronicle).
-* 📢 stitching on <img height="16" width="16" src="https://cdn.simpleicons.org/threads/000000" /> as [@justin.devcoder](https://threads.net/@justin.devcoder).
-* 📢 tweeting on <img height="16" width="16" src="https://cdn.simpleicons.org/twitter/1DA1F2" /> as [@justinchronicle](https://twitter.com/justinchronicle).
-
-
-## Here are my ... ##
-
-* 😄 Pronouns: he/his/him
-* ⚡ Fun facts:
-  * Before being a software developer, I was an HR expert.
-  * Before being the HR expert, I was a teacher.
 
 
 ## Recent blog posts (EN) ##
