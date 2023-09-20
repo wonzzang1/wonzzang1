@@ -14,8 +14,6 @@
 
 K리그를 좋아하고 제일 [좋아하는 팀](https://hyundai-motorsfc.com) 은 @@입니다 .
 직관을 자주 하지 못해 집관을 자주합니다.
-<img width="80%" src="https://user-images.githubusercontent.com/16822641/109461495-913fc480-7aa5-11eb-9d0e-aff762669f98.gif"/>
-
 최근에는 복싱🥊을 배우기 시작했습니다.
 
 ## 나의 특기📱
