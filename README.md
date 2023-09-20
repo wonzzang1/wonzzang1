@@ -1,5 +1,8 @@
 ### Hi there 👋
 안녕하세요 반갑습니다.
+저는 임업&환경 쪽에서 일하다가 새롭게 도전하게 되었습니다.
+많이 부족합니다. 도와주세요.
+
 <!--
 **wonzzang1/wonzzang1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
